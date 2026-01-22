@@ -1,0 +1,6 @@
+/@vite/*  /@vite/:splat  200
+/@react-refresh  /@react-refresh  200
+/@id/*  /@id/:splat  200
+/@fs/*  /@fs/:splat  200
+/src/*  /src/:splat  200
+/*    /index.html   200
